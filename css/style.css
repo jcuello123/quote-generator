@@ -1,0 +1,29 @@
+body {
+    background: #290306;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: #170035;
+    font-size: 20px;
+}
+
+.container-1 {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.card {
+    margin: auto;
+    background: #f3be00;
+    border: 3px solid #efe4b0;
+}
+
+.btn {
+    background: #efe4b0;
+    border: 1px solid #efe4b0;
+    color: #170035;
+}
+
+.btn:hover {
+    background: #f3be00;
+    border: 2px solid #efe4b0;
+}
